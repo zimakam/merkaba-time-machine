@@ -1,0 +1,23 @@
+{
+  "title": "Merkaba Time Machine: Counter-Rotating Tetrahedra as Temporal Generator",
+  "description": "Model where two counter-rotating tetrahedra create a temporal gradient. Upper: v = φ·c → γ → ∞ (outside time). Lower: v = (1/φ)·c → γ ≈ 1.272 (in time). Cell born at temporal boundary between two times, carrying relativistic γ factor from birth moment. Three modes: symmetric, asymmetric (φ-limit), light.",
+  "creators": [
+    {
+      "name": "Ziyavutdinov, Magomed Kamalovich",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0005-9212-9921"
+    }
+  ],
+  "keywords": [
+    "Merkaba",
+    "time machine",
+    "relativistic dynamics",
+    "golden ratio",
+    "emergent time",
+    "special relativity"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
